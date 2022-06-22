@@ -1,0 +1,34 @@
+body {
+    background-image: url('https://images8.alphacoders.com/697/697289.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: 'Kanit', sans-serif;
+       }  
+    
+    header
+    {
+      background-color: #caebe3;
+      color: white;
+      height: 70px;
+      padding: 10px;
+    }
+    
+    footer 
+    {
+        background-color: #caebe3;
+        color: white;
+        height: 20px;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    .mainpage 
+    {
+      width: 1024px;
+      margin: 0 auto;
+    }
+
+    .headname 
+    {
+      color: #ffffff;
+    }

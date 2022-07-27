@@ -61,6 +61,17 @@ body {
     }
     
     .topmenu{
-   background-color: #5492d8;
+   background-color: #385df1;
    height: 40px;
+    }
+
+    .topmenu ul{
+      list-style: disc;
+      margin: auto;
+      display: flex;
+      justify-content: left;
+    }
+    .topmenu li{
+      float: right;
+      padding: 10px 40px;
     }
